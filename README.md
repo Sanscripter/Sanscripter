@@ -6,7 +6,7 @@
 
 I'm a Fullstack Web Developer looking for new opportunities in mobile and gaming.
 
-Skills: ANGULAR / NEST / ANDROID (KOTLIN - IONIC - REACT NATIVE) / PYTHON
+Skills: ANGULAR / NEST / ANDROID (KOTLIN - IONIC - REACT NATIVE) / SPRINGBOOT / PYTHON
 
 ### 📫 Wanna reach out?
 [![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermoasmurua@gmail.com)](mailto:guillermoasmurua@gmail.com)
