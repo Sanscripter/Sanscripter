@@ -1,21 +1,19 @@
-### Hi there 🖖, I'm Guillermo
-#### I'm a Fullstack Web Developer. Let's chat!
-![I'm a Fullstack Web Developer. Let's chat!](https://i.ibb.co/F8P2fq4/output-onlinepngtools.png)
+### Hi there 🖖, Guillermo Murúa here.
+#### - I'm a Fullstack Software Developer focused on enterprise development by day and game development (and other experimental projects) by night!!! -
+![I'm a Fullstack Web Developer. Let's chat!](https://ibb.co/d23bZmp.gif)
+
+[![Medium Badge](https://img.shields.io/badge/-@Sanscripter-white?style=flat&logo=Medium&labelColor=black&go=Medium&link=https://medium.com/@Sanscripter/)](https://medium.com/Sanscripter) [![Linkedin Badge](https://img.shields.io/badge/-Guillermo%20Murúa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-murua/)](https://www.linkedin.com/in/guillermo-murua/) [![GitHub Sanscripter](https://img.shields.io/github/followers/sanscripter?label=follow&style=social)](https://github.com/Sanscripter)
 
 I'm a Fullstack Web Developer looking for new opportunities in mobile and gaming.
 
-Skills: VUE JS / REACT / JS / ANGULAR / JAVA
+Skills: ANGULAR / NEST / ANDROID (KOTLIN - IONIC - REACT NATIVE) / PYTHON
 
-- 🔭 I’m currently working on my web 🌐 presence 
-- 🌱 I’m currently learning 📱 Android 🤖 
-- 👯 I’m looking to collaborate on pretty much anything. Try me! 
-- 💬 Ask me about starting out as a Web Developer  
-- 📫 How to reach me: Email 📧  | LinkedIn 💼 | My Website 🖥 
-- ⚡ Fun fact: I'm a dad! 👶 *ALL HAIL BABY OSCAR!*  
+### 📫 Wanna reach out?
+[![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermoasmurua@gmail.com)](mailto:guillermoasmurua@gmail.com)
+
+### 🏆 Trophies and achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanscripter&theme=darkhub)](https://github.com/sanscripter/github-profile-trophy)
+ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanscripter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/guillermo-murua/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sanscripter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanscripter.github.io/personal-website/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanscripter&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Sanscripter)  🖖
+<img src="https://komarev.com/ghpvc/?username=sanscripter&style=plastic&label=Views"><img>
