@@ -1,10 +1,16 @@
 ### Hi there 🖖, Guillermo Murúa here.
 #### - I'm a Fullstack Software Developer focused on enterprise development by day and game development (and other experimental projects) by night!!! -
-![I'm a Fullstack Web Developer. Let's chat!](https://i.ibb.co/zRL8d62/Sanscripter.gif)
+
+<div align="center">
+
+ <img src="https://i.ibb.co/zRL8d62/Sanscripter.gif" height="500" style="margin: auto;">
+
+
 
 [![Medium Badge](https://img.shields.io/badge/-@Sanscripter-white?style=flat&logo=Medium&labelColor=black&go=Medium&link=https://medium.com/@Sanscripter/)](https://medium.com/Sanscripter) [![Linkedin Badge](https://img.shields.io/badge/-Guillermo%20Murúa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-murua/)](https://www.linkedin.com/in/guillermo-murua/) [![GitHub Sanscripter](https://img.shields.io/github/followers/sanscripter?label=follow&style=social)](https://github.com/Sanscripter)
 
-I'm a Fullstack Web Developer looking for new opportunities in mobile and gaming.
+</div>
+
 
 Skills: ANGULAR / NEST / ANDROID (KOTLIN - IONIC - REACT NATIVE) / SPRINGBOOT / PYTHON
 
