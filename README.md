@@ -3,7 +3,7 @@
 
 <div align="center">
 
- <img src="https://i.ibb.co/zRL8d62/Sanscripter.gif" height="500" style="margin: auto;">
+ <img src="https://i.ibb.co/3fPNjdX/Web-Developer.gif"   style="border-radius: 50px;">
 
 
 
@@ -14,8 +14,7 @@
 
 Skills: ANGULAR / NEST / ANDROID (KOTLIN - IONIC - REACT NATIVE) / SPRINGBOOT / PYTHON
 
-### 📫 Wanna reach out?
-[![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermoasmurua@gmail.com)](mailto:guillermoasmurua@gmail.com)
+### 📫 Wanna reach out? [![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermoasmurua@gmail.com)](mailto:guillermoasmurua@gmail.com)
 
 ### 🏆 Trophies and achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanscripter&theme=darkhub)](https://github.com/sanscripter/github-profile-trophy)
