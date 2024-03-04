@@ -17,7 +17,7 @@ Skills: ANGULAR / NEST / ANDROID (KOTLIN - IONIC - REACT NATIVE) / SPRINGBOOT / 
 ### 📫 Wanna reach out? [![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermoasmurua@gmail.com)](mailto:guillermoasmurua@gmail.com)
 
 ### 🏆 Trophies and achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanscripter&theme=darkhub)](https://github.com/sanscripter/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanscripter&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Stats
 
