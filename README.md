@@ -14,7 +14,7 @@
 
 Skills: ANGULAR / NEST / ANDROID (KOTLIN - IONIC - REACT NATIVE) / SPRINGBOOT / PYTHON
 
-CURRENT TECH INTERESTS: Enterprise Software (ERP, B2B SaaS, Complex Admin Dashboards), AR - but not so much VR -, Data-driven solutions (esp. with geographic data and 3D visualizations), Non-financial applications of Blockchain and actually anything P2P or federated and decentralized, Procgen and Games!
+CURRENT TECH INTERESTS: Enterprise Software (ERP, B2B SaaS, Backoffice and Complex Admin Dashboards), AR - but not so much VR -, Data-driven solutions (esp. with geographic data and 3D visualizations), Non-financial applications of Blockchain and actually anything P2P or federated and decentralized, Procgen and Games!
 
 ### 📫 Wanna reach out? [![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermoasmurua@gmail.com)](mailto:guillermoasmurua@gmail.com)
 
