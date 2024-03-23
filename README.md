@@ -21,10 +21,3 @@ CURRENT TECH INTERESTS: Enterprise Software (ERP, B2B SaaS, Backoffice and Compl
 ### 🏆 Trophies and achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanscripter&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 Stats
-
- <a href="https://stackoverflow.com/users/story/5564131"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5564131&theme=dark" height="200"></a> [![Leetcode Stats](https://leetcard.jacoblin.cool/Sanscripter)](https://leetcode.com/Sanscripter)
-
-
-
-<img src="https://komarev.com/ghpvc/?username=sanscripter&style=plastic&label=Views"><img>
